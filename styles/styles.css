@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(127, 171, 237);
+  }
+  h1 {
+    color: blue;
+  }
+  p{
+    color: rgb(22, 21, 21);
+  }
+  h1 {
+    border: 2px solid rgb(218, 10, 21);
+    margin: 100px;
+  }
+  p {
+    border: 2px solid rgb(35, 16, 183);
+    padding: 20px;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #96D4D4;
+  }
+ 
+  div {
+    width:300px;
+    margin:auto;
+  }
+  div {background-color:rgb(177, 16, 16);color:white;padding:20px;}
+
+.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+.mycontainer div {
+  width:33%;
+  float:left;
+}
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.note {
+  font-size: 120%;
+  color: red;
+}
